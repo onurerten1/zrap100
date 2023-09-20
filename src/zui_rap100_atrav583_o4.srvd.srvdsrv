@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service definition for ZC_RAP100_ATRAV583'
+define service ZUI_RAP100_ATRAV583_O4 {
+  expose ZC_RAP100_ATRAV583 as Travel;
+}
